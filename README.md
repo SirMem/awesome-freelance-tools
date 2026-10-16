@@ -1,5 +1,7 @@
 # Awesome Freelance Tools
 
+[![Check links](https://github.com/kleogeos/awesome-freelance-tools/actions/workflows/link-check.yml/badge.svg)](https://github.com/kleogeos/awesome-freelance-tools/actions/workflows/link-check.yml)
+
 A curated, no-nonsense list of free and open-source tools for independent freelancers — invoicing, contracts, time tracking, taxes, and crypto payments. Every tool here either has a genuinely useful free tier or is fully open source. No affiliate links, no sponsored placements.
 
 Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://github.com/kleogeos)) alongside other tools worth knowing about.
