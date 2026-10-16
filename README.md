@@ -18,6 +18,7 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 ## Invoicing & Payments
 
 - [freelance-invoice-cli](https://github.com/kleogeos/freelance-invoice-cli) — generate a clean HTML invoice from a JSON file. Zero dependencies, no account.
+- [freelance-currency-cli](https://github.com/kleogeos/freelance-currency-cli) — convert an invoice amount between USD/EUR/RUB/160+ currencies, free no-key API with a manual offline override.
 - [Wave](https://www.waveapps.com/) — free invoicing and accounting for small businesses (revenue comes from optional paid payment processing, not the software itself).
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) — open-source, self-hostable invoicing and billing platform.
 
