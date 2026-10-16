@@ -18,13 +18,13 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 ## Invoicing & Payments
 
 - [freelance-invoice-cli](https://github.com/kleogeos/freelance-invoice-cli) — generate a clean HTML invoice from a JSON file. Zero dependencies, no account.
-- [freelance-currency-cli](https://github.com/kleogeos/freelance-currency-cli) — convert an invoice amount between USD/EUR/RUB/160+ currencies, free no-key API with a manual offline override.
 - [Wave](https://www.waveapps.com/) — free invoicing and accounting for small businesses (revenue comes from optional paid payment processing, not the software itself).
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) — open-source, self-hostable invoicing and billing platform.
 
 ## Proposals & Contracts
 
 - [freelance-proposal-cli](https://github.com/kleogeos/freelance-proposal-cli) — generate a client proposal/quote from a JSON file.
+- [freelance-contract-cli](https://github.com/kleogeos/freelance-contract-cli) — generate a plain-language services agreement (scope, payment, IP, termination) from a JSON file. Not legal advice.
 - [contract-checklist-cli](https://github.com/kleogeos/contract-checklist-cli) — scan a freelance contract for commonly-missing clauses (scope, IP ownership, termination, payment terms). Not legal advice.
 - [Dropbox Sign](https://sign.dropbox.com/) (formerly HelloSign) — free tier covers a handful of e-signatures per month, useful for occasional contract signing.
 
