@@ -27,6 +27,7 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 
 - [freelance-proposal-cli](https://github.com/kleogeos/freelance-proposal-cli) — generate a client proposal/quote from a JSON file.
 - [freelance-contract-cli](https://github.com/kleogeos/freelance-contract-cli) — generate a plain-language services agreement (scope, payment, IP, termination) from a JSON file. Not legal advice.
+- [freelance-nda-cli](https://github.com/kleogeos/freelance-nda-cli) — generate a plain-language mutual NDA from a JSON file, for the discovery call before a project is scoped. Not legal advice.
 - [freelance-rate-js](https://github.com/kleogeos/freelance-rate-js) — the rate calculator for the npx crowd: `npx github:kleogeos/freelance-rate-js --net 60000`, no install, no Python, no npm account. (maker)
 - [contract-checklist-cli](https://github.com/kleogeos/contract-checklist-cli) — scan a freelance contract for commonly-missing clauses (scope, IP ownership, termination, payment terms). Not legal advice.
 - [Dropbox Sign](https://sign.dropbox.com/) (formerly HelloSign) — free tier covers a handful of e-signatures per month, useful for occasional contract signing.
