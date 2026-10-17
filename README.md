@@ -18,6 +18,7 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 ## Invoicing & Payments
 
 - [freelance-invoice-cli](https://github.com/kleogeos/freelance-invoice-cli) — generate a clean HTML invoice from a JSON file. Zero dependencies, no account.
+- [freelance-timesheet-to-invoice-cli](https://github.com/kleogeos/freelance-timesheet-to-invoice-cli) — turn a freelance-time-cli timesheet into an invoice.json, no manual re-typing of hours. Zero dependencies.
 - [freelance-late-fee-cli](https://github.com/kleogeos/freelance-late-fee-cli) — compute the late fee owed on an overdue invoice and which reminder stage to send. Zero dependencies.
 - [freelance-currency-cli](https://github.com/kleogeos/freelance-currency-cli) — convert an invoice amount between currencies (USD/EUR/RUB/160+), free no-key API with manual offline override. Zero dependencies.
 - [Wave](https://www.waveapps.com/) — free invoicing and accounting for small businesses (revenue comes from optional paid payment processing, not the software itself).
