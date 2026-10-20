@@ -45,6 +45,7 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 
 - [freelance-expense-cli](https://github.com/kleogeos/freelance-expense-cli) — track business expenses for tax reporting, local JSON file.
 - [freelance-tax-cli](https://github.com/kleogeos/freelance-tax-cli) — estimate US self-employment tax (15.3%) on freelance net profit. npx port: [freelance-tax-js](https://github.com/kleogeos/freelance-tax-js).
+- [freelance-ru-tax-cli](https://github.com/kleogeos/freelance-ru-tax-cli) — compare Russian НПД (self-employed) vs ИП на УСН tax for freelancers, 2026 rates, including the crypto-income grey area.
 - [IRS Free File](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free) — free federal tax filing directly through the IRS for eligible incomes (US).
 
 ## Crypto Payments for Freelancers
