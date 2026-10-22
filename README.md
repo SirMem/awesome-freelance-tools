@@ -28,6 +28,7 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 ## Proposals & Contracts
 
 - [freelance-proposal-cli](https://github.com/kleogeos/freelance-proposal-cli) — generate a client proposal/quote from a JSON file. npx port: [freelance-proposal-js](https://github.com/kleogeos/freelance-proposal-js).
+- [freelance-scope-doc-cli](https://github.com/kleogeos/freelance-scope-doc-cli) — generate a free public pitch and a paid confidential scope document from one JSON file, so a detailed implementation plan never goes out for free during the pitch. (maker)
 - [freelance-contract-cli](https://github.com/kleogeos/freelance-contract-cli) — generate a plain-language services agreement (scope, payment, IP, termination) from a JSON file. Not legal advice.
 - [freelance-nda-cli](https://github.com/kleogeos/freelance-nda-cli) — generate a plain-language mutual NDA from a JSON file, for the discovery call before a project is scoped. Not legal advice. npx port: [freelance-nda-js](https://github.com/kleogeos/freelance-nda-js).
 - [freelance-rate-js](https://github.com/kleogeos/freelance-rate-js) — the rate calculator for the npx crowd: `npx github:kleogeos/freelance-rate-js --net 60000`, no install, no Python, no npm account. (maker)
