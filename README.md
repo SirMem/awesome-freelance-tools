@@ -21,6 +21,7 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 - [Wave](https://www.waveapps.com/) — free invoicing and accounting for small businesses (revenue comes from optional paid payment processing, not the software itself).
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) — open-source, self-hostable invoicing and billing platform.
 - [Invompt](https://invompt.com) — turn AI-host work into invoices you review before send; Continue as guest or OAuth via hosted MCP (free guest tier).
+- [Freelancer Invoice Aging Sample](https://github.com/SirMem/freelancer-invoice-aging-sample) — free MIT spreadsheet sample with Current / 1–30 / 31–60 / 60+ aging buckets for freelancers chasing late invoices (maker).
 
 ## Proposals & Contracts
 
