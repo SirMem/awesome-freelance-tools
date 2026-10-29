@@ -22,6 +22,7 @@ Includes a set of zero-dependency CLIs I built and maintain ([kleogeos](https://
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) — open-source, self-hostable invoicing and billing platform.
 - [Invompt](https://invompt.com) — turn AI-host work into invoices you review before send; Continue as guest or OAuth via hosted MCP (free guest tier).
 - [Freelancer Invoice Aging Sample](https://github.com/SirMem/freelancer-invoice-aging-sample) — free spreadsheet sample with Current / 1–30 / 31–60 / 60+ aging buckets for freelancers chasing late invoices; free sample of a paid tracker, no license file in repo (maker).
+- [Friday Invoice Chase Ranker](https://sirmem.github.io/friday-invoice-chase-tool/) — free local-first browser tool that ranks which overdue freelance invoices to chase first (60+ days / top 3); MIT open source, no account. (maker)
 
 ## Proposals & Contracts
 
